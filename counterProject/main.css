@@ -1,20 +1,20 @@
 :root {
     --mainWhite: #f5f5f5;
-    --mainBlue: #0d2c54;
-    --lightBlue: #1782ee;
+    --mainBlue: #264754;
+    --lightBlue: #77daea;
     --mainBlack: #333333;
 }
 .max-height {
     min-height: 100vh;
 }
 body {
-    background: url("https://webdevetc.com/blog_images/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html-uru01140x600.jpg") center/cover fixed no-repeat;
+    background: url("https://cutewallpaper.org/21/hd-texture-background/Color-Paper-Texture-Background-Hd-Image-Free-Drawing-Css-.jpg") center/cover fixed no-repeat;
     color: var(--mainWhite);
 }
 .main-container {
     border: 0.1rem solid var(--mainWhite);
-    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
-    border-radius: 0.2rem;
+    box-shadow: 0.3rem 0.5rem 1rem 1rem rgba(193, 192, 192, 0.9);
+    border-radius: 1rem;
 }
 #counter {
     font-size: 10rem;
